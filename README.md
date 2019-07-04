@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone,
+
+I am doing an MSc in stats.
